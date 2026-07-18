@@ -1,0 +1,201 @@
+order_id,order_date,customer_name,city,category,product,quantity,unit_price,discount_percent,payment_mode,banner_shown,delivered_on_time,customer_rating
+SK0198,2026-01-01,Gukesh,Bengaluru,Home & Kitchen,Pressure Cooker 3L,1,1599,10,Credit Card,B,Yes,5
+SK0154,2026-01-02,Dinesh,Delhi,Grocery,Masala Chai 500g,4,249,0,Cash on Delivery,A,Yes,4
+SK0156,2026-01-02,Mahesh,Jaipur,Grocery,Masala Chai 500g,4,249,5,Debit Card,A,Yes,5
+SK0002,2026-01-03,Dinesh,Hyderabad,Fashion,Cotton Kurta,1,799,10,Debit Card,A,Yes,5
+SK0016,2026-01-03,Dinesh,Delhi,Electronics,Smart Watch,1,2499,10,Cash on Delivery,A,Yes,5
+SK0057,2026-01-03,Hitesh,Lucknow,Grocery,Basmati Rice 5kg,4,599,15,Cash on Delivery,A,Yes,4
+SK0068,2026-01-03,Jitesh,Hyderabad,Fashion,Denim Jeans,1,1299,20,Debit Card,B,Yes,4
+SK0034,2026-01-04,Mukesh,Pune,Home & Kitchen,Mixer Grinder,3,2299,10,Cash on Delivery,A,Yes,4
+SK0168,2026-01-04,Ramesh,Bengaluru,Fashion,Cotton Kurta,1,799,15,Debit Card,A,Yes,3
+SK0199,2026-01-04,Ramesh,Lucknow,Fashion,Cotton Kurta,2,799,10,Cash on Delivery,B,Yes,4
+SK0040,2026-01-05,Suresh,Mumbai,Electronics,Bluetooth Earbuds,4,1499,0,UPI,A,Yes,5
+SK0088,2026-01-05,Mukesh,Lucknow,Grocery,Cooking Oil 1L,3,189,20,UPI,A,Yes,5
+SK0115,2026-01-05,Mahesh,Hyderabad,Grocery,Basmati Rice 5kg,2,599,10,Cash on Delivery,A,Yes,3
+SK0020,2026-01-06,Nitesh,Jaipur,Home & Kitchen,Mixer Grinder,4,2299,0,Cash on Delivery,B,No,2
+SK0031,2026-01-06,Nitesh,Pune,Grocery,Masala Chai 500g,2,249,5,Cash on Delivery,A,Yes,3
+SK0106,2026-01-06,Ramesh,Mumbai,Fashion,Denim Jeans,4,1299,0,Cash on Delivery,A,Yes,3
+SK0032,2026-01-07,Nitesh,Lucknow,Home & Kitchen,Mixer Grinder,3,2299,20,Debit Card,A,Yes,4
+SK0059,2026-01-07,Mahesh,Jaipur,Home & Kitchen,Mixer Grinder,3,2299,0,UPI,A,Yes,4
+SK0039,2026-01-08,Nitesh,Hyderabad,Home & Kitchen,Water Bottle 1L,1,349,10,Cash on Delivery,B,No,2
+SK0065,2026-01-08,Jitesh,Mumbai,Grocery,Cooking Oil 1L,3,189,15,Cash on Delivery,B,Yes,4
+SK0073,2026-01-08,Ratnesh,Jaipur,Electronics,USB-C Cable,1,299,15,Cash on Delivery,A,Yes,4
+SK0092,2026-01-08,Jitesh,Chennai,Fashion,Running Shoes,4,1899,5,Cash on Delivery,B,Yes,4
+SK0024,2026-01-09,Himesh,Chennai,Home & Kitchen,Pressure Cooker 3L,3,1599,10,UPI,B,No,2
+SK0072,2026-01-09,Mukesh,Pune,Fashion,Running Shoes,4,1899,15,Cash on Delivery,B,Yes,4
+SK0109,2026-01-10,Suresh,Mumbai,Home & Kitchen,Water Bottle 1L,3,349,0,Debit Card,A,Yes,3
+SK0181,2026-01-10,Nitesh,Bengaluru,Home & Kitchen,Pressure Cooker 3L,2,1599,20,UPI,B,Yes,5
+SK0188,2026-01-10,Hitesh,Pune,Home & Kitchen,Pressure Cooker 3L,4,1599,0,Cash on Delivery,A,Yes,4
+SK0028,2026-01-11,Ramesh,Chennai,Fashion,Denim Jeans,3,1299,0,Credit Card,B,Yes,5
+SK0129,2026-01-11,Gukesh,Delhi,Electronics,Smart Watch,2,2499,0,Cash on Delivery,A,Yes,5
+SK0146,2026-01-12,Gukesh,Hyderabad,Grocery,Masala Chai 500g,2,249,10,Cash on Delivery,A,Yes,5
+SK0046,2026-01-13,Himesh,Pune,Grocery,Cooking Oil 1L,4,189,15,Cash on Delivery,A,Yes,4
+SK0085,2026-01-13,Himesh,Pune,Grocery,Cooking Oil 1L,3,189,15,Cash on Delivery,B,Yes,5
+SK0094,2026-01-13,Himesh,Pune,Grocery,Basmati Rice 5kg,1,599,20,UPI,B,Yes,4
+SK0113,2026-01-14,Gukesh,Lucknow,Electronics,Power Bank 10000mAh,4,999,10,Credit Card,B,Yes,5
+SK0007,2026-01-15,Suresh,Lucknow,Home & Kitchen,Mixer Grinder,2,2299,15,Cash on Delivery,B,No,2
+SK0067,2026-01-15,Gukesh,Lucknow,Grocery,Cooking Oil 1L,4,189,5,Debit Card,B,Yes,3
+SK0035,2026-01-17,Mukesh,Jaipur,Fashion,Running Shoes,4,1899,0,Cash on Delivery,B,Yes,3
+SK0179,2026-01-17,Jitesh,Jaipur,Home & Kitchen,Pressure Cooker 3L,4,1599,0,UPI,B,Yes,3
+SK0066,2026-01-18,Mukesh,Jaipur,Fashion,Denim Jeans,2,1299,5,Cash on Delivery,A,Yes,4
+SK0022,2026-01-19,Himesh,Chennai,Home & Kitchen,Water Bottle 1L,2,349,0,Credit Card,A,No,1
+SK0069,2026-01-19,Ramesh,Delhi,Home & Kitchen,Water Bottle 1L,4,349,0,Debit Card,B,Yes,4
+SK0097,2026-01-19,Ratnesh,Chennai,Grocery,Basmati Rice 5kg,2,599,5,UPI,A,Yes,5
+SK0142,2026-01-19,Suresh,Delhi,Fashion,Denim Jeans,3,1299,10,Cash on Delivery,B,Yes,4
+SK0178,2026-01-19,Ramesh,Mumbai,Electronics,Bluetooth Earbuds,2,1499,10,Cash on Delivery,A,Yes,5
+SK0194,2026-01-19,Dinesh,Lucknow,Fashion,Denim Jeans,2,1299,0,Credit Card,B,Yes,5
+SK0122,2026-01-20,Nitesh,Lucknow,Electronics,Smart Watch,4,2499,15,UPI,B,Yes,3
+SK0127,2026-01-21,Mukesh,Hyderabad,Home & Kitchen,Mixer Grinder,1,2299,15,Credit Card,A,Yes,4
+SK0140,2026-01-22,Suresh,Delhi,Home & Kitchen,Mixer Grinder,2,2299,0,UPI,A,No,3
+SK0081,2026-01-23,Nitesh,Delhi,Grocery,Basmati Rice 5kg,1,599,5,Credit Card,A,Yes,4
+SK0184,2026-01-24,Ramesh,Pune,Electronics,Bluetooth Earbuds,4,1499,10,Cash on Delivery,A,Yes,3
+SK0196,2026-01-24,Jitesh,Pune,Home & Kitchen,Pressure Cooker 3L,1,1599,10,UPI,A,No,1
+SK0003,2026-01-25,Nitesh,Chennai,Fashion,Denim Jeans,4,1299,5,Debit Card,B,Yes,5
+SK0033,2026-01-25,Mukesh,Delhi,Grocery,Masala Chai 500g,4,249,15,Debit Card,B,No,1
+SK0110,2026-01-25,Mahesh,Delhi,Fashion,Running Shoes,3,1899,5,Cash on Delivery,A,Yes,5
+SK0141,2026-01-25,Kamlesh,Lucknow,Grocery,Masala Chai 500g,4,249,10,Cash on Delivery,A,Yes,5
+SK0153,2026-01-25,Hitesh,Mumbai,Grocery,Cooking Oil 1L,1,189,5,Credit Card,A,Yes,4
+SK0183,2026-01-25,Kamlesh,Delhi,Electronics,Smart Watch,4,2499,15,Debit Card,B,Yes,5
+SK0017,2026-01-26,Nitesh,Bengaluru,Home & Kitchen,Mixer Grinder,2,2299,0,Cash on Delivery,A,Yes,4
+SK0186,2026-01-27,Mukesh,Pune,Grocery,Cooking Oil 1L,3,189,0,Credit Card,B,Yes,4
+SK0010,2026-01-28,Hitesh,Jaipur,Electronics,Power Bank 10000mAh,2,999,20,UPI,B,Yes,5
+SK0078,2026-01-28,Ramesh,Hyderabad,Home & Kitchen,Pressure Cooker 3L,4,1599,0,Debit Card,A,Yes,4
+SK0144,2026-01-28,Gukesh,Chennai,Electronics,USB-C Cable,2,299,15,Debit Card,B,No,2
+SK0191,2026-01-28,Gukesh,Hyderabad,Grocery,Masala Chai 500g,1,249,0,Credit Card,A,No,1
+SK0045,2026-02-01,Mukesh,Bengaluru,Grocery,Masala Chai 500g,4,249,20,Cash on Delivery,B,Yes,4
+SK0055,2026-02-01,Kamlesh,Jaipur,Home & Kitchen,Mixer Grinder,2,2299,10,Debit Card,A,Yes,4
+SK0077,2026-02-02,Suresh,Delhi,Grocery,Cooking Oil 1L,4,189,15,Debit Card,B,Yes,4
+SK0167,2026-02-02,Ratnesh,Jaipur,Grocery,Cooking Oil 1L,1,189,5,Debit Card,B,Yes,5
+SK0008,2026-02-03,Mahesh,Mumbai,Fashion,Denim Jeans,3,1299,0,Debit Card,B,Yes,5
+SK0089,2026-02-03,Ratnesh,Chennai,Fashion,Cotton Kurta,4,799,20,Cash on Delivery,B,Yes,5
+SK0128,2026-02-03,Ramesh,Lucknow,Fashion,Running Shoes,3,1899,0,Credit Card,B,Yes,5
+SK0023,2026-02-04,Mukesh,Mumbai,Fashion,Denim Jeans,1,1299,10,Debit Card,A,Yes,4
+SK0119,2026-02-04,Hitesh,Delhi,Grocery,Cooking Oil 1L,1,189,10,Debit Card,A,Yes,5
+SK0131,2026-02-04,Suresh,Mumbai,Electronics,Power Bank 10000mAh,4,999,15,Credit Card,B,Yes,5
+SK0041,2026-02-05,Ratnesh,Hyderabad,Home & Kitchen,Water Bottle 1L,3,349,20,Credit Card,B,Yes,5
+SK0197,2026-02-05,Suresh,Hyderabad,Fashion,Cotton Kurta,2,799,0,Cash on Delivery,A,Yes,4
+SK0019,2026-02-06,Suresh,Pune,Grocery,Masala Chai 500g,2,249,20,UPI,A,Yes,3
+SK0149,2026-02-07,Himesh,Delhi,Grocery,Basmati Rice 5kg,3,599,10,Credit Card,A,Yes,4
+SK0095,2026-02-08,Kamlesh,Delhi,Fashion,Denim Jeans,2,1299,0,UPI,A,Yes,4
+SK0180,2026-02-09,Suresh,Chennai,Electronics,Power Bank 10000mAh,1,999,0,Cash on Delivery,B,Yes,3
+SK0120,2026-02-10,Ramesh,Lucknow,Home & Kitchen,Mixer Grinder,3,2299,15,UPI,A,Yes,4
+SK0123,2026-02-10,Mukesh,Chennai,Fashion,Cotton Kurta,3,799,20,UPI,B,Yes,5
+SK0170,2026-02-10,Nitesh,Delhi,Electronics,Bluetooth Earbuds,2,1499,10,UPI,A,No,2
+SK0175,2026-02-10,Hitesh,Jaipur,Electronics,Smart Watch,3,2499,15,Credit Card,A,Yes,3
+SK0102,2026-02-11,Ramesh,Lucknow,Grocery,Masala Chai 500g,2,249,15,Credit Card,B,Yes,4
+SK0053,2026-02-12,Himesh,Hyderabad,Home & Kitchen,Water Bottle 1L,2,349,10,Cash on Delivery,A,Yes,4
+SK0084,2026-02-12,Nitesh,Hyderabad,Grocery,Cooking Oil 1L,4,189,15,UPI,B,Yes,5
+SK0125,2026-02-12,Hitesh,Mumbai,Fashion,Running Shoes,3,1899,20,Debit Card,B,Yes,4
+SK0157,2026-02-12,Ramesh,Bengaluru,Electronics,USB-C Cable,1,299,10,Cash on Delivery,A,Yes,4
+SK0193,2026-02-12,Kamlesh,Lucknow,Home & Kitchen,Mixer Grinder,1,2299,20,Cash on Delivery,B,Yes,4
+SK0036,2026-02-13,Mahesh,Jaipur,Grocery,Cooking Oil 1L,2,189,0,Cash on Delivery,B,Yes,5
+SK0021,2026-02-14,Gukesh,Lucknow,Home & Kitchen,Pressure Cooker 3L,2,1599,5,UPI,A,No,1
+SK0132,2026-02-14,Kamlesh,Chennai,Electronics,Smart Watch,2,2499,10,UPI,B,Yes,3
+SK0137,2026-02-14,Kamlesh,Jaipur,Home & Kitchen,Water Bottle 1L,4,349,10,UPI,B,No,3
+SK0152,2026-02-14,Gukesh,Lucknow,Home & Kitchen,Mixer Grinder,2,2299,5,Cash on Delivery,A,Yes,4
+SK0043,2026-02-15,Dinesh,Bengaluru,Electronics,Smart Watch,2,2499,5,Credit Card,B,Yes,4
+SK0063,2026-02-15,Dinesh,Mumbai,Grocery,Cooking Oil 1L,4,189,5,Debit Card,A,Yes,3
+SK0098,2026-02-15,Gukesh,Jaipur,Grocery,Cooking Oil 1L,1,189,10,Cash on Delivery,A,No,1
+SK0107,2026-02-15,Mahesh,Delhi,Grocery,Basmati Rice 5kg,3,599,5,UPI,B,Yes,3
+SK0062,2026-02-16,Nitesh,Mumbai,Electronics,Bluetooth Earbuds,2,1499,0,Cash on Delivery,B,Yes,5
+SK0074,2026-02-16,Ramesh,Jaipur,Fashion,Running Shoes,2,1899,10,Cash on Delivery,A,No,2
+SK0148,2026-02-17,Kamlesh,Jaipur,Electronics,Bluetooth Earbuds,2,1499,5,UPI,A,Yes,4
+SK0076,2026-02-18,Himesh,Bengaluru,Home & Kitchen,Mixer Grinder,3,2299,20,Credit Card,A,No,2
+SK0189,2026-02-18,Hitesh,Lucknow,Fashion,Running Shoes,2,1899,5,UPI,A,Yes,3
+SK0105,2026-02-19,Mukesh,Lucknow,Fashion,Running Shoes,1,1899,10,Debit Card,B,Yes,4
+SK0195,2026-02-19,Gukesh,Lucknow,Fashion,Running Shoes,3,1899,5,Credit Card,B,No,3
+SK0200,2026-02-19,Ramesh,Bengaluru,Fashion,Denim Jeans,2,1299,5,Cash on Delivery,A,Yes,3
+SK0004,2026-02-20,Ramesh,Jaipur,Grocery,Basmati Rice 5kg,4,599,10,Debit Card,A,No,3
+SK0079,2026-02-20,Jitesh,Hyderabad,Home & Kitchen,Water Bottle 1L,1,349,20,UPI,B,No,3
+SK0130,2026-02-20,Ramesh,Jaipur,Electronics,Bluetooth Earbuds,1,1499,5,Credit Card,A,No,3
+SK0083,2026-02-21,Mukesh,Delhi,Grocery,Masala Chai 500g,3,249,15,UPI,A,Yes,5
+SK0162,2026-02-21,Jitesh,Mumbai,Fashion,Denim Jeans,1,1299,10,UPI,B,Yes,5
+SK0090,2026-02-22,Himesh,Lucknow,Grocery,Cooking Oil 1L,4,189,20,Credit Card,B,Yes,4
+SK0174,2026-02-22,Dinesh,Hyderabad,Electronics,Power Bank 10000mAh,2,999,10,Debit Card,B,No,1
+SK0176,2026-02-22,Mahesh,Hyderabad,Grocery,Cooking Oil 1L,1,189,15,Credit Card,B,Yes,5
+SK0070,2026-02-23,Mukesh,Lucknow,Home & Kitchen,Mixer Grinder,4,2299,20,UPI,A,Yes,4
+SK0177,2026-02-24,Ratnesh,Hyderabad,Grocery,Masala Chai 500g,4,249,20,Debit Card,A,Yes,3
+SK0048,2026-02-25,Kamlesh,Mumbai,Home & Kitchen,Mixer Grinder,4,2299,5,UPI,A,Yes,3
+SK0086,2026-02-25,Jitesh,Chennai,Fashion,Denim Jeans,3,1299,0,UPI,A,Yes,4
+SK0114,2026-02-25,Kamlesh,Delhi,Fashion,Cotton Kurta,1,799,10,Credit Card,A,No,2
+SK0075,2026-02-26,Hitesh,Hyderabad,Grocery,Basmati Rice 5kg,3,599,15,Debit Card,B,Yes,5
+SK0087,2026-02-26,Kamlesh,Bengaluru,Home & Kitchen,Pressure Cooker 3L,3,1599,15,Credit Card,A,Yes,4
+SK0171,2026-02-26,Kamlesh,Jaipur,Home & Kitchen,Pressure Cooker 3L,3,1599,0,Cash on Delivery,A,Yes,3
+SK0013,2026-02-27,Ramesh,Delhi,Grocery,Basmati Rice 5kg,1,599,0,Credit Card,A,Yes,5
+SK0054,2026-02-27,Dinesh,Hyderabad,Grocery,Masala Chai 500g,2,249,20,Cash on Delivery,A,Yes,5
+SK0147,2026-02-27,Mahesh,Delhi,Electronics,Power Bank 10000mAh,3,999,15,Credit Card,A,Yes,4
+SK0161,2026-02-27,Gukesh,Pune,Electronics,Smart Watch,3,2499,15,Cash on Delivery,A,No,2
+SK0071,2026-02-28,Jitesh,Hyderabad,Electronics,USB-C Cable,4,299,0,UPI,A,Yes,5
+SK0096,2026-02-28,Mahesh,Pune,Fashion,Cotton Kurta,3,799,20,Debit Card,A,Yes,3
+SK0133,2026-02-28,Kamlesh,Mumbai,Home & Kitchen,Pressure Cooker 3L,4,1599,5,UPI,B,Yes,4
+SK0145,2026-02-28,Mahesh,Mumbai,Fashion,Denim Jeans,2,1299,20,Cash on Delivery,B,Yes,3
+SK0051,2026-03-01,Ramesh,Jaipur,Grocery,Cooking Oil 1L,4,189,10,UPI,A,Yes,4
+SK0056,2026-03-01,Jitesh,Hyderabad,Fashion,Cotton Kurta,2,799,15,Cash on Delivery,B,Yes,4
+SK0099,2026-03-01,Ramesh,Chennai,Electronics,USB-C Cable,4,299,10,Debit Card,A,Yes,5
+SK0018,2026-03-02,Dinesh,Hyderabad,Electronics,Bluetooth Earbuds,4,1499,15,Credit Card,B,Yes,4
+SK0029,2026-03-02,Suresh,Lucknow,Grocery,Cooking Oil 1L,2,189,10,Credit Card,A,Yes,4
+SK0049,2026-03-02,Mahesh,Hyderabad,Electronics,Power Bank 10000mAh,2,999,20,UPI,A,Yes,4
+SK0103,2026-03-02,Gukesh,Pune,Grocery,Cooking Oil 1L,1,189,10,Debit Card,B,Yes,5
+SK0117,2026-03-02,Mukesh,Chennai,Grocery,Cooking Oil 1L,1,189,5,UPI,B,Yes,3
+SK0064,2026-03-03,Hitesh,Hyderabad,Fashion,Cotton Kurta,2,799,10,Debit Card,A,Yes,5
+SK0080,2026-03-03,Jitesh,Chennai,Fashion,Denim Jeans,3,1299,0,Cash on Delivery,A,Yes,3
+SK0091,2026-03-03,Mukesh,Hyderabad,Home & Kitchen,Water Bottle 1L,3,349,15,UPI,B,Yes,3
+SK0108,2026-03-03,Ramesh,Lucknow,Grocery,Masala Chai 500g,4,249,10,Cash on Delivery,B,Yes,4
+SK0001,2026-03-04,Himesh,Bengaluru,Electronics,Smart Watch,2,2499,0,UPI,A,Yes,3
+SK0012,2026-03-04,Hitesh,Pune,Grocery,Cooking Oil 1L,2,189,0,UPI,B,Yes,3
+SK0101,2026-03-04,Gukesh,Chennai,Fashion,Running Shoes,4,1899,0,Debit Card,B,Yes,5
+SK0100,2026-03-05,Himesh,Bengaluru,Electronics,Power Bank 10000mAh,3,999,10,UPI,B,Yes,4
+SK0164,2026-03-05,Hitesh,Lucknow,Fashion,Denim Jeans,3,1299,15,Debit Card,B,Yes,4
+SK0038,2026-03-06,Dinesh,Delhi,Electronics,Smart Watch,3,2499,0,UPI,A,Yes,4
+SK0135,2026-03-06,Kamlesh,Jaipur,Fashion,Cotton Kurta,4,799,0,Cash on Delivery,B,Yes,4
+SK0173,2026-03-06,Nitesh,Lucknow,Electronics,Smart Watch,3,2499,10,UPI,A,Yes,5
+SK0005,2026-03-07,Nitesh,Jaipur,Electronics,Bluetooth Earbuds,2,1499,20,Cash on Delivery,B,No,2
+SK0025,2026-03-07,Hitesh,Jaipur,Grocery,Basmati Rice 5kg,3,599,0,UPI,A,Yes,4
+SK0027,2026-03-07,Nitesh,Jaipur,Grocery,Basmati Rice 5kg,3,599,10,UPI,B,Yes,4
+SK0044,2026-03-07,Nitesh,Pune,Electronics,USB-C Cable,4,299,5,Cash on Delivery,B,Yes,4
+SK0050,2026-03-07,Mahesh,Jaipur,Home & Kitchen,Water Bottle 1L,3,349,20,UPI,B,Yes,3
+SK0166,2026-03-07,Nitesh,Lucknow,Home & Kitchen,Mixer Grinder,4,2299,5,Credit Card,B,Yes,5
+SK0030,2026-03-08,Mahesh,Delhi,Electronics,Smart Watch,4,2499,10,Cash on Delivery,A,No,2
+SK0158,2026-03-09,Kamlesh,Delhi,Electronics,Power Bank 10000mAh,1,999,10,Credit Card,B,Yes,4
+SK0061,2026-03-10,Hitesh,Chennai,Home & Kitchen,Mixer Grinder,4,2299,5,UPI,A,No,2
+SK0104,2026-03-10,Ratnesh,Lucknow,Grocery,Basmati Rice 5kg,2,599,0,UPI,B,Yes,3
+SK0124,2026-03-11,Gukesh,Hyderabad,Fashion,Denim Jeans,4,1299,0,UPI,A,Yes,4
+SK0143,2026-03-13,Hitesh,Mumbai,Electronics,Smart Watch,3,2499,15,UPI,B,Yes,4
+SK0082,2026-03-14,Himesh,Delhi,Fashion,Cotton Kurta,2,799,0,Credit Card,B,Yes,4
+SK0093,2026-03-14,Ramesh,Lucknow,Grocery,Basmati Rice 5kg,3,599,0,Debit Card,B,Yes,4
+SK0112,2026-03-14,Mahesh,Hyderabad,Home & Kitchen,Water Bottle 1L,4,349,5,Debit Card,A,Yes,4
+SK0138,2026-03-14,Mukesh,Jaipur,Electronics,USB-C Cable,2,299,10,Cash on Delivery,B,Yes,3
+SK0015,2026-03-15,Suresh,Chennai,Electronics,Power Bank 10000mAh,2,999,0,UPI,B,Yes,4
+SK0155,2026-03-15,Dinesh,Mumbai,Home & Kitchen,Mixer Grinder,4,2299,0,Debit Card,A,No,3
+SK0014,2026-03-16,Jitesh,Lucknow,Fashion,Running Shoes,4,1899,0,Cash on Delivery,A,Yes,5
+SK0136,2026-03-16,Kamlesh,Jaipur,Grocery,Basmati Rice 5kg,2,599,5,UPI,B,Yes,3
+SK0169,2026-03-16,Hitesh,Mumbai,Electronics,Power Bank 10000mAh,1,999,10,Debit Card,A,Yes,5
+SK0159,2026-03-17,Hitesh,Hyderabad,Home & Kitchen,Water Bottle 1L,1,349,0,Credit Card,A,Yes,4
+SK0160,2026-03-17,Ratnesh,Hyderabad,Fashion,Running Shoes,3,1899,0,Debit Card,B,No,2
+SK0058,2026-03-18,Kamlesh,Chennai,Grocery,Masala Chai 500g,4,249,5,Credit Card,B,Yes,3
+SK0060,2026-03-18,Hitesh,Chennai,Fashion,Running Shoes,1,1899,0,UPI,B,Yes,4
+SK0172,2026-03-18,Mahesh,Hyderabad,Home & Kitchen,Pressure Cooker 3L,4,1599,5,Debit Card,A,Yes,4
+SK0009,2026-03-19,Ratnesh,Hyderabad,Home & Kitchen,Water Bottle 1L,4,349,5,UPI,A,No,2
+SK0047,2026-03-19,Dinesh,Hyderabad,Electronics,Bluetooth Earbuds,4,1499,0,Debit Card,B,Yes,4
+SK0126,2026-03-19,Dinesh,Delhi,Home & Kitchen,Mixer Grinder,3,2299,20,Debit Card,B,Yes,5
+SK0118,2026-03-20,Ratnesh,Delhi,Home & Kitchen,Mixer Grinder,1,2299,10,UPI,A,Yes,5
+SK0150,2026-03-20,Jitesh,Mumbai,Grocery,Cooking Oil 1L,1,189,20,Cash on Delivery,A,Yes,4
+SK0192,2026-03-20,Jitesh,Lucknow,Fashion,Running Shoes,2,1899,10,Debit Card,B,Yes,5
+SK0151,2026-03-21,Ramesh,Pune,Electronics,USB-C Cable,3,299,15,Credit Card,B,Yes,5
+SK0121,2026-03-22,Kamlesh,Jaipur,Home & Kitchen,Mixer Grinder,3,2299,15,Cash on Delivery,A,Yes,4
+SK0182,2026-03-22,Ratnesh,Delhi,Fashion,Denim Jeans,3,1299,0,Credit Card,A,No,3
+SK0185,2026-03-22,Suresh,Delhi,Electronics,Power Bank 10000mAh,1,999,10,Debit Card,B,Yes,4
+SK0187,2026-03-22,Kamlesh,Bengaluru,Home & Kitchen,Water Bottle 1L,4,349,0,Cash on Delivery,B,No,3
+SK0111,2026-03-23,Hitesh,Chennai,Fashion,Denim Jeans,3,1299,0,Debit Card,B,No,1
+SK0139,2026-03-23,Nitesh,Jaipur,Home & Kitchen,Pressure Cooker 3L,4,1599,5,UPI,B,Yes,4
+SK0163,2026-03-23,Nitesh,Hyderabad,Electronics,Power Bank 10000mAh,1,999,10,UPI,B,Yes,5
+SK0011,2026-03-24,Gukesh,Jaipur,Electronics,Smart Watch,3,2499,0,Credit Card,B,Yes,5
+SK0134,2026-03-24,Jitesh,Hyderabad,Grocery,Basmati Rice 5kg,1,599,5,Cash on Delivery,B,Yes,4
+SK0190,2026-03-24,Himesh,Mumbai,Fashion,Cotton Kurta,3,799,10,Cash on Delivery,A,No,2
+SK0116,2026-03-25,Jitesh,Jaipur,Home & Kitchen,Water Bottle 1L,3,349,20,Debit Card,B,Yes,3
+SK0165,2026-03-25,Dinesh,Jaipur,Grocery,Cooking Oil 1L,4,189,0,Debit Card,A,Yes,4
+SK0052,2026-03-26,Nitesh,Hyderabad,Electronics,Smart Watch,4,2499,15,UPI,B,Yes,5
+SK0006,2026-03-27,Himesh,Delhi,Grocery,Basmati Rice 5kg,3,599,5,Credit Card,A,Yes,3
+SK0026,2026-03-27,Mahesh,Jaipur,Grocery,Cooking Oil 1L,1,189,0,Debit Card,B,Yes,3
+SK0037,2026-03-27,Hitesh,Mumbai,Electronics,Smart Watch,3,2499,0,Cash on Delivery,B,Yes,4
+SK0042,2026-03-28,Ratnesh,Hyderabad,Home & Kitchen,Mixer Grinder,3,2299,20,Credit Card,A,No,2

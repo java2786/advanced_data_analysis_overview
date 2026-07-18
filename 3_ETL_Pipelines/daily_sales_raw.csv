@@ -1,0 +1,25 @@
+order_id,order_date,customer_name,city,category,product,quantity,unit_price,discount_percent,payment_mode,banner_shown,delivered_on_time,customer_rating
+SK0125,2026-02-12,Hitesh, mumbai  ,Fashion,Running Shoes,3,1899,20,Debit Card,B,Yes,
+SK0087,2026-02-26,Kamlesh, bengaluru  ,Home & Kitchen,Pressure Cooker 3L,3,1599,15,Credit Card,A,Yes,
+SK0024,2026-01-09,Himesh, chennai  ,Home & Kitchen,Pressure Cooker 3L,3,1599,10,UPI,B,No,
+SK0088,2026-01-05,Mukesh, lucknow  ,Grocery,Cooking Oil 1L,3,189,20,UPI,A,Yes,5.0
+SK0052,2026-03-26,Nitesh, hyderabad  ,Electronics,Smart Watch,4,2499,15,UPI,B,Yes,5.0
+SK0156,2026-01-02,Mahesh, jaipur  ,Grocery,Masala Chai 500g,4,249,5,Debit Card,A,Yes,5.0
+SK0171,2026-02-26,Kamlesh, jaipur  ,Home & Kitchen,Pressure Cooker 3L,3,1599,0,Cash on Delivery,A,Yes,3.0
+SK0043,2026-02-15,Dinesh, bengaluru  ,Electronics,Smart Watch,2,2499,5,Credit Card,B,Yes,4.0
+SK0167,2026-02-02,Ratnesh, jaipur  ,Grocery,Cooking Oil 1L,1,189,5,Debit Card,B,Yes,5.0
+SK0045,2026-02-01,Mukesh, bengaluru  ,Grocery,Masala Chai 500g,4,249,20,Cash on Delivery,B,Yes,4.0
+SK0130,2026-02-20,Ramesh, jaipur  ,Electronics,Bluetooth Earbuds,1,1499,5,Credit Card,A,No,3.0
+SK0098,2026-02-15,Gukesh, jaipur  ,Grocery,Cooking Oil 1L,1,189,10,Cash on Delivery,A,No,1.0
+SK0064,2026-03-03,Hitesh, hyderabad  ,Fashion,Cotton Kurta,2,799,10,Debit Card,A,Yes,5.0
+SK0077,2026-02-02,Suresh, delhi  ,Grocery,Cooking Oil 1L,4,189,15,Debit Card,B,Yes,4.0
+SK0139,2026-03-23,Nitesh, jaipur  ,Home & Kitchen,Pressure Cooker 3L,4,1599,5,UPI,B,Yes,4.0
+SK0166,2026-03-07,Nitesh, lucknow  ,Home & Kitchen,Mixer Grinder,4,2299,5,Credit Card,B,Yes,5.0
+SK0109,2026-01-10,Suresh, mumbai  ,Home & Kitchen,Water Bottle 1L,3,349,0,Debit Card,A,Yes,3.0
+SK0074,2026-02-16,Ramesh, jaipur  ,Fashion,Running Shoes,2,1899,10,Cash on Delivery,A,No,2.0
+SK0044,2026-03-07,Nitesh, pune  ,Electronics,USB-C Cable,4,299,5,Cash on Delivery,B,Yes,4.0
+SK0127,2026-01-21,Mukesh, hyderabad  ,Home & Kitchen,Mixer Grinder,1,2299,15,Credit Card,A,Yes,4.0
+SK0125,2026-02-12,Hitesh, mumbai  ,Fashion,Running Shoes,3,1899,20,Debit Card,B,Yes,
+SK0087,2026-02-26,Kamlesh, bengaluru  ,Home & Kitchen,Pressure Cooker 3L,3,1599,15,Credit Card,A,Yes,
+SK0024,2026-01-09,Himesh, chennai  ,Home & Kitchen,Pressure Cooker 3L,3,1599,10,UPI,B,No,
+SK0088,2026-01-05,Mukesh, lucknow  ,Grocery,Cooking Oil 1L,3,189,20,UPI,A,Yes,5.0

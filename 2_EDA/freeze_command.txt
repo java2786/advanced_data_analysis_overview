@@ -1,0 +1,5 @@
+To write all dependencies into file:
+$ pip freeze > requirements.txt
+
+To install all the dependecies from file:
+$ pip install -r requirements.txt
